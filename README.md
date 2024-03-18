@@ -7,6 +7,7 @@ The bot filters messages containing hate speech, potential scams, and spam using
 * @Mirvik
 * @rrrkkkvvv
 * @A3rson
+* @yuk1ko-chan
 
 ## Main Advantages:
 * The bot works for every language.
