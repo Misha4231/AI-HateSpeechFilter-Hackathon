@@ -3,10 +3,10 @@
 The bot filters messages containing hate speech, potential scams, and spam using AI. Our bot also allows administrators to customize it completely to their preferences. The bot utilizes AI to detect the context of messages.
 
 ## Project was created at Bydgoszcz Hackathon 2024 in 24 hours with 6 developers:
-@Misha4231
-@Mirvik
-@rrrkkkvvv
-...
+* @Misha4231
+* @Mirvik
+* @rrrkkkvvv
+* @A3rson
 
 ## Main Advantages:
 * The bot works for every language.
